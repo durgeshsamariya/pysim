@@ -10,8 +10,8 @@ pip install pysim
 
 You can install PySIM by clonning the repo
 ```
-git clone https://github.com/durgeshsamariya/pySIM.git
-cd pySIM
+git clone https://github.com/durgeshsamariya/pysim.git
+cd pysim
 pip install .
 ```
 **Required Dependencies:**
