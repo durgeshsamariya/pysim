@@ -14,7 +14,7 @@ import sys
 sys.path.append(
     os.path.abspath(os.path.join(os.path.dirname("__file__"), '..')))
 
-from pysim.distances import manhattan
+from pysiml.distances import manhattan
 
 if __name__ == "__main__":
     a = np.array([1, 2, 43])

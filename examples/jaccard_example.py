@@ -14,7 +14,7 @@ import sys
 sys.path.append(
     os.path.abspath(os.path.join(os.path.dirname("__file__"), '..')))
 
-from pysim.distances import jaccard
+from pysiml.distances import jaccard
 
 if __name__ == "__main__":
     a = np.array([1, 2, 43])
