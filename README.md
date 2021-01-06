@@ -5,7 +5,7 @@ PySIML is a python library for evaluate distance between two vectors. PySIM incl
 It is highly recommended to use **pip** for installation.
 
 ```
-pip install pysim
+pip install pysiml
 ```
 
 You can install PySIML by clonning the repo
