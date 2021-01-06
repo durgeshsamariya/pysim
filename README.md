@@ -1,5 +1,5 @@
-# Python Similarity Measure (PySIM)
-PySIM is a python library for evaluate distance between two vectors. PySIM includes more than five similarity measure.
+# Python Similarity Measure Library(PySIML)
+PySIML is a python library for evaluate distance between two vectors. PySIM includes more than five similarity measure.
 
 # Installation
 It is highly recommended to use **pip** for installation.
@@ -8,10 +8,10 @@ It is highly recommended to use **pip** for installation.
 pip install pysim
 ```
 
-You can install PySIM by clonning the repo
+You can install PySIML by clonning the repo
 ```
-git clone https://github.com/durgeshsamariya/pysim.git
-cd pysim
+git clone https://github.com/durgeshsamariya/pysiml.git
+cd pysiml
 pip install .
 ```
 **Required Dependencies:**
